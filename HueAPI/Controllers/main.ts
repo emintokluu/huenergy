@@ -1,0 +1,1 @@
+export const baseURL = `http://${process.env.HUE_IP}/api/${process.env.HUE_USERNAME}`;

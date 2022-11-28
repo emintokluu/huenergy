@@ -1,0 +1,432 @@
+{
+    "lights": [
+        {
+            "state": {
+                "on": false,
+                "bri": 250,
+                "hue": 41462,
+                "sat": 77,
+                "effect": "none",
+                "xy": [
+                    0.3129,
+                    0.3289
+                ],
+                "ct": 156,
+                "alert": "none",
+                "colormode": "hs",
+                "mode": "homeautomation",
+                "reachable": false
+            },
+            "swupdate": {
+                "state": "noupdates",
+                "lastinstall": "2022-11-26T11:52:25"
+            },
+            "type": "Extended color light",
+            "name": "Salon",
+            "modelid": "LCA006",
+            "manufacturername": "Signify Netherlands B.V.",
+            "productname": "Hue color light",
+            "capabilities": {
+                "certified": true,
+                "control": {
+                    "mindimlevel": 200,
+                    "colorgamuttype": "C",
+                    "colorgamut": [
+                        [
+                            0.6915,
+                            0.3083
+                        ],
+                        [
+                            0.17,
+                            0.7
+                        ],
+                        [
+                            0.1532,
+                            0.0475
+                        ]
+                    ],
+                    "ct": {
+                        "min": 153,
+                        "max": 500
+                    }
+                },
+                "streaming": {
+                    "renderer": true,
+                    "proxy": true
+                }
+            },
+            "config": {
+                "archetype": "pendantspot",
+                "function": "mixed",
+                "direction": "omnidirectional",
+                "startup": {
+                    "mode": "lastonstate",
+                    "configured": true
+                }
+            },
+            "uniqueid": "00:17:88:01:0c:0b:3d:07-0b",
+            "swversion": "1.93.11",
+            "swconfigid": "A7EA4812",
+            "productid": "Philips-LCA006-1-A60HECLv1"
+        },
+        {
+            "state": {
+                "on": true,
+                "bri": 250,
+                "hue": 8417,
+                "sat": 140,
+                "effect": "none",
+                "xy": [
+                    0.4574,
+                    0.41
+                ],
+                "ct": 366,
+                "alert": "none",
+                "colormode": "hs",
+                "mode": "homeautomation",
+                "reachable": false
+            },
+            "swupdate": {
+                "state": "error",
+                "lastinstall": "2022-11-26T04:12:53"
+            },
+            "type": "Extended color light",
+            "name": "Yatak odası orta lamba",
+            "modelid": "LCA006",
+            "manufacturername": "Signify Netherlands B.V.",
+            "productname": "Hue color light",
+            "capabilities": {
+                "certified": true,
+                "control": {
+                    "mindimlevel": 200,
+                    "colorgamuttype": "C",
+                    "colorgamut": [
+                        [
+                            0.6915,
+                            0.3083
+                        ],
+                        [
+                            0.17,
+                            0.7
+                        ],
+                        [
+                            0.1532,
+                            0.0475
+                        ]
+                    ],
+                    "ct": {
+                        "min": 153,
+                        "max": 500
+                    }
+                },
+                "streaming": {
+                    "renderer": true,
+                    "proxy": true
+                }
+            },
+            "config": {
+                "archetype": "pendantspot",
+                "function": "mixed",
+                "direction": "omnidirectional",
+                "startup": {
+                    "mode": "custom",
+                    "configured": true,
+                    "customsettings": {
+                        "bri": 254,
+                        "ct": 153
+                    }
+                }
+            },
+            "uniqueid": "00:17:88:01:0c:02:84:6c-0b",
+            "swversion": "1.76.11",
+            "swconfigid": "0B4D3445",
+            "productid": "Philips-LCA006-1-A60HECLv1"
+        },
+        {
+            "state": {
+                "on": false,
+                "bri": 250,
+                "hue": 8417,
+                "sat": 140,
+                "effect": "none",
+                "xy": [
+                    0.4574,
+                    0.41
+                ],
+                "ct": 366,
+                "alert": "none",
+                "colormode": "hs",
+                "mode": "homeautomation",
+                "reachable": false
+            },
+            "swupdate": {
+                "state": "noupdates",
+                "lastinstall": "2022-11-26T11:52:54"
+            },
+            "type": "Extended color light",
+            "name": "Koridor Tavan Lambası",
+            "modelid": "LCA006",
+            "manufacturername": "Signify Netherlands B.V.",
+            "productname": "Hue color light",
+            "capabilities": {
+                "certified": true,
+                "control": {
+                    "mindimlevel": 200,
+                    "colorgamuttype": "C",
+                    "colorgamut": [
+                        [
+                            0.6915,
+                            0.3083
+                        ],
+                        [
+                            0.17,
+                            0.7
+                        ],
+                        [
+                            0.1532,
+                            0.0475
+                        ]
+                    ],
+                    "ct": {
+                        "min": 153,
+                        "max": 500
+                    }
+                },
+                "streaming": {
+                    "renderer": true,
+                    "proxy": true
+                }
+            },
+            "config": {
+                "archetype": "pendantspot",
+                "function": "mixed",
+                "direction": "omnidirectional",
+                "startup": {
+                    "mode": "safety",
+                    "configured": true
+                }
+            },
+            "uniqueid": "00:17:88:01:0c:02:a1:49-0b",
+            "swversion": "1.93.11",
+            "swconfigid": "A7EA4812",
+            "productid": "Philips-LCA006-1-A60HECLv1"
+        },
+        {
+            "state": {
+                "on": true,
+                "bri": 250,
+                "hue": 41440,
+                "sat": 75,
+                "effect": "none",
+                "xy": [
+                    0.3146,
+                    0.3303
+                ],
+                "ct": 156,
+                "alert": "none",
+                "colormode": "hs",
+                "mode": "homeautomation",
+                "reachable": false
+            },
+            "swupdate": {
+                "state": "error",
+                "lastinstall": "2022-11-26T10:09:32"
+            },
+            "type": "Extended color light",
+            "name": "Dolap üstü",
+            "modelid": "LCL001",
+            "manufacturername": "Signify Netherlands B.V.",
+            "productname": "Hue lightstrip plus",
+            "capabilities": {
+                "certified": true,
+                "control": {
+                    "mindimlevel": 40,
+                    "maxlumen": 1600,
+                    "colorgamuttype": "C",
+                    "colorgamut": [
+                        [
+                            0.6915,
+                            0.3083
+                        ],
+                        [
+                            0.17,
+                            0.7
+                        ],
+                        [
+                            0.1532,
+                            0.0475
+                        ]
+                    ],
+                    "ct": {
+                        "min": 153,
+                        "max": 500
+                    }
+                },
+                "streaming": {
+                    "renderer": true,
+                    "proxy": true
+                }
+            },
+            "config": {
+                "archetype": "huelightstrip",
+                "function": "mixed",
+                "direction": "omnidirectional",
+                "startup": {
+                    "mode": "custom",
+                    "configured": true,
+                    "customsettings": {
+                        "bri": 254,
+                        "xy": [
+                            0.2412,
+                            0.1079
+                        ]
+                    }
+                }
+            },
+            "uniqueid": "00:17:88:01:0c:58:b9:40-0b",
+            "swversion": "1.76.11",
+            "swconfigid": "B757566F",
+            "productid": "Philips-LCL001-1-LedStripsv4"
+        },
+        {
+            "state": {
+                "on": true,
+                "bri": 254,
+                "hue": 60983,
+                "sat": 96,
+                "effect": "colorloop",
+                "xy": [
+                    0.4477,
+                    0.3266
+                ],
+                "ct": 350,
+                "alert": "select",
+                "colormode": "hs",
+                "mode": "homeautomation",
+                "reachable": false
+            },
+            "swupdate": {
+                "state": "readytoinstall",
+                "lastinstall": "2022-11-27T14:50:12"
+            },
+            "type": "Extended color light",
+            "name": "Hue Play 1",
+            "modelid": "440400982842",
+            "manufacturername": "Signify Netherlands B.V.",
+            "productname": "Hue Play",
+            "capabilities": {
+                "certified": true,
+                "control": {
+                    "mindimlevel": 100,
+                    "maxlumen": 560,
+                    "colorgamuttype": "C",
+                    "colorgamut": [
+                        [
+                            0.6915,
+                            0.3083
+                        ],
+                        [
+                            0.17,
+                            0.7
+                        ],
+                        [
+                            0.1532,
+                            0.0475
+                        ]
+                    ],
+                    "ct": {
+                        "min": 153,
+                        "max": 500
+                    }
+                },
+                "streaming": {
+                    "renderer": true,
+                    "proxy": true
+                }
+            },
+            "config": {
+                "archetype": "hueplay",
+                "function": "decorative",
+                "direction": "upwards",
+                "startup": {
+                    "mode": "safety",
+                    "configured": true
+                }
+            },
+            "uniqueid": "00:17:88:01:0c:6b:a8:70-0b",
+            "swversion": "1.93.7",
+            "swconfigid": "9C95D526",
+            "productid": "3241-3127-7871_HC07_PSG03"
+        },
+        {
+            "state": {
+                "on": true,
+                "bri": 250,
+                "hue": 26211,
+                "sat": 254,
+                "effect": "colorloop",
+                "xy": [
+                    0.1695,
+                    0.6814
+                ],
+                "ct": 500,
+                "alert": "select",
+                "colormode": "hs",
+                "mode": "homeautomation",
+                "reachable": false
+            },
+            "swupdate": {
+                "state": "error",
+                "lastinstall": "2022-11-27T14:50:11"
+            },
+            "type": "Extended color light",
+            "name": "Hue Play 2",
+            "modelid": "440400982842",
+            "manufacturername": "Signify Netherlands B.V.",
+            "productname": "Hue Play",
+            "capabilities": {
+                "certified": true,
+                "control": {
+                    "mindimlevel": 100,
+                    "maxlumen": 560,
+                    "colorgamuttype": "C",
+                    "colorgamut": [
+                        [
+                            0.6915,
+                            0.3083
+                        ],
+                        [
+                            0.17,
+                            0.7
+                        ],
+                        [
+                            0.1532,
+                            0.0475
+                        ]
+                    ],
+                    "ct": {
+                        "min": 153,
+                        "max": 500
+                    }
+                },
+                "streaming": {
+                    "renderer": true,
+                    "proxy": true
+                }
+            },
+            "config": {
+                "archetype": "hueplay",
+                "function": "decorative",
+                "direction": "upwards",
+                "startup": {
+                    "mode": "safety",
+                    "configured": true
+                }
+            },
+            "uniqueid": "00:17:88:01:0c:6b:a8:8a-0b",
+            "swversion": "1.93.7",
+            "swconfigid": "9C95D526",
+            "productid": "3241-3127-7871_HC07_PSG03"
+        }
+    ]
+}
